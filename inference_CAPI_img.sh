@@ -1,0 +1,1 @@
+./bin/runFCHardNet --engine=./bin/FCHardNet_static608_fp16.engine --input=./img/berlin_000000_000019_leftImg8bit.png --W=608 --H=608 --class=19 --C=3 --mode=fp16 --img=on --show_result=on
